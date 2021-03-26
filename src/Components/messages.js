@@ -1,11 +1,11 @@
 export let messages = [
-    { title: "Bien hecho", message: "¿Otra?" },
+  { title: "Bien hecho", message: "¿Otra?" },
 
-    { title: "Buen trabajo", message: "Inténtalo otra vez" },
+  { title: "¡Bien!", message: "¿Otra partida?" },
 
-    {
-        title: "Has estado rápido",
-        message: "¿Puedes jugar más rápido?",
-    },
-    { title: "¡Bien!", message: "Has ido rápido." },
+  {
+    title: "Buena partida",
+    message: "¿Otra vez?",
+  },
+  { title: "Buena partida", message: "¡Muy rápido!" },
 ];
